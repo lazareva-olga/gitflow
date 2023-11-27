@@ -1,1 +1,1 @@
-print('My name Olga')
+print('My name Daniil')
